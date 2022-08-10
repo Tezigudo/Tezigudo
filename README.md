@@ -21,6 +21,3 @@ HI Bro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tezigudo&show_icons=true&locale=en" alt="tezigudo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tezigudo&" alt="tezigudo" /></p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tezigudo)](https://github.com/anuraghazra/github-readme-stats)
