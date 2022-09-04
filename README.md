@@ -9,7 +9,7 @@ HI Bro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/preawpan thamapipol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="preawpan thamapipol" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Godguiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="preawpan thamapipol" height="30" width="40" /></a>
 <a href="https://instagram.com/gd.gd_god_gd.gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gd.gd_god_gd.gd" height="30" width="40" /></a>
 </p>
 
