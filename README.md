@@ -1,7 +1,7 @@
 HI Bro
 
 <h1 align="center">Hi 👋, I'm God</h1>
-<h3 align="center">A passionate AI Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tezigudo&label=Profile%20views&color=0e75b6&style=flat" alt="tezigudo" /> </p>
 
